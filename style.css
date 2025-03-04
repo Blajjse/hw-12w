@@ -1,0 +1,218 @@
+:root {
+    --font-family: "Roboto", sans-serif;
+    --second-family: "Raleway", sans-serif;
+  }
+
+.index-logo a {
+    font-family: var(--second-family);
+    font-weight: 700;
+    font-size: 26px;
+    letter-spacing: 0.03em;
+    color: #2196f3;
+}
+.index-studio a {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+.index-contacts {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: #757575
+}
+.portfolio-adress a {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+.d h1 {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+.d button {
+    width: 216px;
+    height: 50px;
+    text-align: center;
+}
+.e h3 {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+}
+.e p {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.f a {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    letter-spacing: 0.03em;
+}
+.portfolio-logo a {
+    font-family: var(--second-family);
+    font-weight: 700;
+    font-size: 26px;
+    letter-spacing: 0.03em;
+    color: #2196f3;
+}
+.portfolio a {
+    width: 45px;
+    height: 16px;
+}
+.portfolio-mail a {
+    width: 135px;
+    height: 16px;
+}
+.portfolio-number a {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+.portfolio-button button {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 162%;
+    letter-spacing: 0.03em;
+    text-align: center;
+
+}
+.portfolio-subtitle h3 {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 200%;
+    letter-spacing: 0.06em;
+    color: #212121;
+}
+.portfolio-discription h4 {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 187%;
+    letter-spacing: 0.03em;
+    color: #757575;
+}
+.portfolio-footer {
+    font-family: var(--second-family);
+    font-weight: 700;
+    font-size: 26px;
+    letter-spacing: 0.03em;
+    color: #2196f3;
+}
+.main-button {
+    width: 696;
+    height: 120; 
+    box-sizing: border-box;
+    background-color: #212121;
+    background-size: 960000px;
+    padding-top: 280px;
+    padding-bottom: 492px;
+    font-family: var(--font-family);
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 136%;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #fff;
+}
+.main-order {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 187%;
+    letter-spacing: 0.06em;
+    text-align: center;
+    color: #fff;
+    background-color: #2196f3;
+    width: 152px;
+    height: 60px;
+}
+.ditails-title {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;
+    width: 270px;
+    height: 16px;
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 174px;
+    justify-content: space-around;  
+}
+.ditails-text {
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 171%;
+    letter-spacing: 0.03em;
+    color: #757575;
+    width: 270px;
+    height: 72px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+.work-title {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: #212121;
+}
+.work-iteam {
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    justify-content: row;
+}
+.portfolio {
+    display: flex;
+    justify-content: row;
+}
+.portfolio-button {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 162%;
+    letter-spacing: 0.03em;
+    text-align: center;
+    color: black;
+    display: flex;
+    justify-content: space-around;
+    justify-content: row;
+    align-items: center;
+}
+.img {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 215px;
+    justify-content: row;
+    flex-direction: row;
+}
